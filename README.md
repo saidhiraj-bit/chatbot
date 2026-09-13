@@ -39,7 +39,7 @@ python chatbot_Dictionary.py
 
 ## Author
 
-**Ravindranadhy**
+**Sai Dhiraj**
 
 ## Repository
 
