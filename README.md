@@ -44,12 +44,3 @@ python chatbot_Dictionary.py
 ## Repository
 
 This project was created for the Decode Labs assignment.
-
-
-## Author
-
-**Sai Dhiraj Salver**
-
-## Repository
-
-This project was created for the Decode Labs assignment.
